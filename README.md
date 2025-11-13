@@ -1,12 +1,12 @@
-Sales Data Analysis & Visualization in Excel
-📝 Project Overview
+**Virinda Sales Data Analysis & Visualization in Excel**
+**📝 Project Overview**
 
 This project focuses on analyzing and visualizing sales data using Microsoft Excel.
 The goal was to perform data cleaning, create Pivot Table dashboards, and uncover key business insights related to sales performance, customer demographics, and order behavior.
 
-⚙️ Project Workflow
+**⚙️ Project Workflow**
 
-Data Cleaning
+**Data Cleaning**
 
 Removed duplicate records
 
@@ -16,7 +16,7 @@ Standardized date, text, and numerical formats
 
 Ensured data consistency across all columns
 
-Data Analysis (Pivot Tables)
+**Data Analysis (Pivot Tables)**
 Created multiple Pivot Tables to analyze:
 
 📦 Orders vs Sales performance
@@ -29,8 +29,7 @@ Created multiple Pivot Tables to analyze:
 
 🏆 Top 10 States by Orders & Sales Channels
 
-Dashboard & Visualization
-
+**Dashboard & Visualization**
 Built an interactive dashboard combining key KPIs and charts
 
 Added Slicers for:
@@ -53,7 +52,7 @@ Top-performing states contribute a major share of total revenue.
 
 Certain months and categories show strong seasonal sales spikes.
 
-🧩 Tools & Skills Used
+🧩** Tools & Skills Used**
 
 Microsoft Excel
 
@@ -67,7 +66,7 @@ Conditional Formatting
 
 Data Visualization & Reporting
 
-💡 Outcome
+💡** Outcome**
 
 Created an interactive and dynamic Excel dashboard to analyze sales and order data.
 
