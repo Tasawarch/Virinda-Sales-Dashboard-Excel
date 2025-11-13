@@ -42,7 +42,7 @@ Category
 
 Designed charts for quick decision-making and trend identification
 
-📈 Key Insights
+**📈 Key Insights**
 
 Male and female purchase patterns differ across channels and states.
 
